@@ -8,7 +8,8 @@
 
 ## Study
 
-* [Spring start here](study/spring-start-here.md)
+* [Spring start here](study/spring-start-here/README.md)
+  * [2장: Spring Context와 Bean](study/spring-start-here/2-spring-context-bean.md)
 
 ## Reference
 

@@ -4,4 +4,4 @@ description: Laurentiu Spilca가 쓴 Spring 입문서. 백엔드 갤러리에서
 
 # Spring start here
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
