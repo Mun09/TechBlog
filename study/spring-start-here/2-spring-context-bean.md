@@ -52,3 +52,16 @@ Spring이 인스턴스를 생성한 후에야 개발자가 해당 인스턴스�
 
 3. Programmatically
 
+특정 조건에서 몇몇의 메소드들을 컨텍스트에 추가하고 싶을때 보통 사용한다.
+
+ApplicationContext의 method중 하나인 registerBean()을 사용한다. registerBean에는 4개의 parameter가 있다.
+
+1. beanName
+2. beanClass
+3. supplier
+4. BeanDefinitionCustomizer
+
+두번째 parameter까지는 이해할 수 있지만 나머지 2개는 뭘까? 세번째 매개변수는 Supplier 인터페이스의 인스턴스를 받는다. Supplier는 매개변수를 받지 않고 값을 반환하는 함수이다.
+
+supplier 기능을 통해서 인스터스를 동적으로 생성가능하다. 즉 lazy loading을 구현한다. 네번째 매개변수는 bean과 관련된 속성들을 정의한다. 기본 bean, 우선순위 등등.
+
