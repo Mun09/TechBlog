@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😁 Welcome](README.md)
+* [😁 Welcome to Jaeyoung's Tech Blog](README.md)
 
 ## Debugging
 
@@ -12,6 +12,7 @@
   * [2장: Spring Context와 Bean](study/spring-start-here/2-spring-context-bean.md)
   * [3장: 의존성 주입](study/spring-start-here/3.md)
   * [4장: 추상화](study/spring-start-here/4.md)
+  * [5장: Bean의 범위와 생명주기](study/spring-start-here/5-bean.md)
 
 ## Reference
 
