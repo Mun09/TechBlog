@@ -17,7 +17,11 @@ layout:
     visible: true
 ---
 
-# 😁 Welcome
+# 😁 Welcome to Jaeyoung's Tech Blog
+
+개발과 깨달음에 관한 블로그
+
+
 
 ## 🤝Contact
 
