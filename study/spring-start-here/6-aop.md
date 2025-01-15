@@ -35,3 +35,7 @@ aspect는 프레임워크가 특정 메소드를 호출할 때 실행하는 로�
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>figure 6.11: aspect 전체 흐름</p></figcaption></figure>
 
 aspect는 가로챈 함수의 리턴값, 파라미터 등도 바꿀 수 있다. 즉 굉장히 강력한 기능을 제공하기 때문에 조심히 사용해야한다. 어디까지나 로직을 디커플링하는 이유는 코드의 중복과 불필요한 정보를 숨기기위한 것이다.
+
+커스텀 주석을 만들어서 복잡한 AspectJ 안쓰고 원하는 타겟 메서드에 주석만 갖다 쓰는 방법도 있다.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>figure 6.12: 커스텀 주석 만들어서 쓰기</p></figcaption></figure>
