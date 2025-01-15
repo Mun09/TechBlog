@@ -18,3 +18,20 @@ aspect는 프레임워크가 특정 메소드를 호출할 때 실행하는 로�
 
 객체가 aspect target으로 지정된다면 getBean() 메소드나 DI를 통해서 빈이 사용될때마다 spring은 실제 메서드 대신 aspect 로직을 호출하는 객체를 반환한다. \
 이런 객체를 **프록시 객체**라고 한다. 또한 이런 접근 방식을 **Weaving**이라고 한다.
+
+
+
+**aspect 사용하기**
+
+1. aspects을 허용하기 구성 클래스위에 허용 주석을 단다. ex) @EnableAspectJAutoProxy
+2. aspect를 정의하는 클래스를 스프링 컨텍스트에 추가한다. 이 클래스 내부에 함수를 정의할 것이다. 클래스우에는 @Aspect 주석을 달아준다. 중요한 점은 이 주석만으로 자동으로 컨텍스트에 추가되지 않는다는 것이다.
+3. 언제&어디서 함수를 대체할 것인지 스프링에게 알려준다. 이때 advice 주석을 사용한다. ex) @Around 주석 안에는 어떤 타겟함수의 특징을 AspectJ 문법으로 서술해야 한다. 또한 주석처리된 함수는 ProceedingJoinPoint 타입의 매개변수를 받는데, 이것이 타겟함수다.
+4. 로직 실행
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>figure 6.6: aspectJ 문구 </p></figcaption></figure>
+
+특정 메서드를 실행하기 전에 인증절차등이 우선되어야 하는 로직의 경우 용이하다. 또한 proceed() 호출 시 가로챈 메서드에서 에러가 발생하면 예외처리도 가능하다.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>figure 6.11: aspect 전체 흐름</p></figcaption></figure>
+
+aspect는 가로챈 함수의 리턴값, 파라미터 등도 바꿀 수 있다. 즉 굉장히 강력한 기능을 제공하기 때문에 조심히 사용해야한다. 어디까지나 로직을 디커플링하는 이유는 코드의 중복과 불필요한 정보를 숨기기위한 것이다.
