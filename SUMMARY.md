@@ -14,7 +14,7 @@
   * [4장: 추상화](study/spring-start-here/4.md)
   * [5장: Bean의 범위와 생명주기](study/spring-start-here/5-bean.md)
   * [6장: 스프링 AOP](study/spring-start-here/6-aop.md)
-  * [7장: implementation](study/spring-start-here/7-implementation.md)
+  * [7장: 스프링부트와 MVC](study/spring-start-here/7-mvc.md)
 
 ## Reference
 
