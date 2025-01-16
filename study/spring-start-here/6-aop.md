@@ -1,3 +1,7 @@
+---
+description: aspect에 대해서 배워본다.
+---
+
 # 6장: 스프링 AOP
 
 DI외 스프링이 지원하는 강력한 기능 중 Asepct가 있다. aspect는 프레임워크가 메서드 호출을 가로채고, 메서드 실행을 변경하는 방법이다. 이를 통해 실행중이 메서드의 일부 로직을 추출할 수 있다. Aspect는 신중히 사용치 않으면 앱의 유지보수가 어려워질 수 있다. 이런 접근 방식으로 Aspect-Oriented Programming(AOP)라고 한다.

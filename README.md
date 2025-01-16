@@ -27,7 +27,7 @@ layout:
 
 **Email**   jaeyeongm34@gmail.com
 
-**LinkedIn**   www.linkedin.com/in/munjaeyoung
+**LinkedIn**   [www.linkedin.com/in/munjaeyoung](https://www.linkedin.com/in/munjaeyoung)
 
 
 
