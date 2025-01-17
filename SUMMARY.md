@@ -15,6 +15,7 @@
   * [5장: Bean의 범위와 생명주기](study/spring-start-here/5-bean.md)
   * [6장: 스프링 AOP](study/spring-start-here/6-aop.md)
   * [7장: 스프링부트와 MVC](study/spring-start-here/7-mvc.md)
+  * [8장: 스프링부트와 MVC로 웹 앱 만들기](study/spring-start-here/8-mvc.md)
 
 ## Reference
 
