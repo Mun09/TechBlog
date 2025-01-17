@@ -25,4 +25,5 @@
 ## Intuition
 
 * [잭 보글 - 지수가 신고점일 때 투자원칙 다섯가지 (1997년)](intuition/1997.md)
-* [Also Sprach Zarathustra](intuition/also-sprach-zarathustra.md)
+* [Also Sprach Zarathustra](intuition/also-sprach-zarathustra/README.md)
+  * [Page 1](intuition/also-sprach-zarathustra/page-1.md)
