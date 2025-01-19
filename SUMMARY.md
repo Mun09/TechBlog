@@ -4,7 +4,8 @@
 
 ## Debugging
 
-* [Spring](debugging/spring.md)
+* [Spring](debugging/spring/README.md)
+  * [PORT 8080 is already used 에러 해결](debugging/spring/port-8080-is-already-used.md)
 
 ## Study
 
