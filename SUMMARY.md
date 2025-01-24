@@ -6,6 +6,9 @@
 
 * [Spring](debugging/spring/README.md)
   * [PORT 8080 is already used 에러 해결](debugging/spring/port-8080-is-already-used.md)
+  * [DTO Validation](debugging/spring/dto-validation.md)
+* [Java](debugging/java/README.md)
+  * [primitive type vs wrapper class](debugging/java/primitive-type-vs-wrapper-class.md)
 
 ## Study
 
@@ -18,6 +21,7 @@
   * [7장: 스프링부트와 MVC](study/spring-start-here/7-mvc.md)
   * [8장: 스프링부트와 MVC로 웹 앱 만들기](study/spring-start-here/8-mvc.md)
   * [9장: 웹 스코프](study/spring-start-here/9.md)
+  * [10장: REST 엔드포인트](study/spring-start-here/10-rest.md)
 
 ## Reference
 

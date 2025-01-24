@@ -36,7 +36,7 @@ aspect는 프레임워크가 특정 메소드를 호출할 때 실행하는 로�
 
 특정 메서드를 실행하기 전에 인증절차등이 우선되어야 하는 로직의 경우 용이하다. 또한 proceed() 호출 시 가로챈 메서드에서 에러가 발생하면 예외처리도 가능하다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>figure 6.11: aspect 전체 흐름</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>figure 6.11: aspect 전체 흐름</p></figcaption></figure>
 
 aspect는 가로챈 함수의 리턴값, 파라미터 등도 바꿀 수 있다. 즉 굉장히 강력한 기능을 제공하기 때문에 조심히 사용해야한다. 어디까지나 로직을 디커플링하는 이유는 코드의 중복과 불필요한 정보를 숨기기위한 것이다.
 

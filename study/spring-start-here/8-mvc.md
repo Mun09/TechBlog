@@ -30,14 +30,16 @@ mvc 흐름에서는 컨트롤러가 데이터를 view resolver에게 뷰이름�
    대량의 데이터 전송에 적합. \
    문자열 또는 바이너리 데이터로 전송. \
    rest api 구현 시에 많이 사용한다. \
-   ex) { "username": "jaeyoung", "password": "securepassword123" }
+   ex) { "username": "jaeyoung", "password": "securepassword123" }\
+   \
+   2014년 이후 get method도 Body request가 가능해졌다.
 
 **request parameter를 이용해서 데이터 보내기** \
 @RequestParam을 사용한다.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>이렇게 하면</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>이렇게 하면</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p> 이렇게 사용</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p> 이렇게 사용</p></figcaption></figure>
 
 **경로 변수 사용하기**\
 경로 변수를 사용한다는 것은 다음과 같이 변한다는 것이다. \
@@ -46,6 +48,14 @@ mvc 흐름에서는 컨트롤러가 데이터를 view resolver에게 뷰이름�
 선택적인 값도 피해야 한다. 선택해야 한다면 요청 파라미터를 이용하자.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+**body request 사용하기**\
+보통 post요청으로 Body request가 들어오고 @RequestBody 로 값을 가져올 수 있다. \
+아래 예시처럼 PaymentDetails같은 DTO를 사용해도 스프링이 자동으로 객체를 정의해준다.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
 
 이때까지 HTTP GET method를 사용했다. \
 하지만 클라이언트의 의도에 따라서 method의 종류는 달라진다. \
