@@ -22,6 +22,8 @@
   * [8장: 스프링부트와 MVC로 웹 앱 만들기](study/spring-start-here/8-mvc.md)
   * [9장: 웹 스코프](study/spring-start-here/9.md)
   * [10장: REST 엔드포인트](study/spring-start-here/10-rest.md)
+  * [11장: 엔드포인트 활용](study/spring-start-here/11.md)
+  * [12장: Data Source](study/spring-start-here/12-data-source.md)
 
 ## Reference
 
