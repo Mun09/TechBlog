@@ -37,3 +37,6 @@
   * [Page 1](intuition/also-sprach-zarathustra/page-1.md)
 * [Almanack of Naval Ravikant](intuition/almanack-of-naval-ravikant/README.md)
   * [부자되는 법 by Naval Ravikant](intuition/almanack-of-naval-ravikant/by-naval-ravikant.md)
+  * [책임을 떠안아라](intuition/almanack-of-naval-ravikant/undefined.md)
+  * [사업지분을 빌드하고 구매하는 것](intuition/almanack-of-naval-ravikant/undefined-1.md)
+  * [레버리지 찾기](intuition/almanack-of-naval-ravikant/undefined-2.md)
