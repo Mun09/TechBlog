@@ -40,3 +40,5 @@
   * [책임을 떠안아라](intuition/almanack-of-naval-ravikant/undefined.md)
   * [사업지분을 빌드하고 구매하는 것](intuition/almanack-of-naval-ravikant/undefined-1.md)
   * [레버리지 찾기](intuition/almanack-of-naval-ravikant/undefined-2.md)
+  * [당신의 판단력으로 돈을 벌어라](intuition/almanack-of-naval-ravikant/undefined-3.md)
+  * [우선순위와 집중](intuition/almanack-of-naval-ravikant/undefined-4.md)
