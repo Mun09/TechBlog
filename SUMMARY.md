@@ -42,3 +42,4 @@
   * [레버리지 찾기](intuition/almanack-of-naval-ravikant/undefined-2.md)
   * [당신의 판단력으로 돈을 벌어라](intuition/almanack-of-naval-ravikant/undefined-3.md)
   * [우선순위와 집중](intuition/almanack-of-naval-ravikant/undefined-4.md)
+  * [인내심을 가져라](intuition/almanack-of-naval-ravikant/undefined-5.md)
