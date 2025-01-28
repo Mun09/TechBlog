@@ -15,4 +15,4 @@
 따라서 실패를 두려워하지 말아야 한다.\
 사람들은 더 많은 책임을 져야 한다.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>

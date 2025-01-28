@@ -18,4 +18,4 @@
 그러나 일반적으로 진정한 부는 자신의 회사를 창업하거나 투자를 통해 창출된다.\
 단순히 시간을 들인다고 부가 생기지 않는다.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

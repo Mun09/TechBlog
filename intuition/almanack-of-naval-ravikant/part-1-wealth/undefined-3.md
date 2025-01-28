@@ -105,4 +105,4 @@
 모든 자본, 모든 저축을 잃을 수 있는 일을 피하고, 모든 것을 한 번에 걸지 말라.\
 대신, 큰 상승 가능성 있는 합리적이고 낙관적인 배팅을 해라.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

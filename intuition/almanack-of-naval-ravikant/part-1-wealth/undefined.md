@@ -16,4 +16,4 @@
 
 페이스북은 리디자인한다. 트위터도 리디자인한다. 개성, 경력 팀도 리디자인이 필요하다. 역동적인 시스템에서는 영구적인 해결책은 없다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

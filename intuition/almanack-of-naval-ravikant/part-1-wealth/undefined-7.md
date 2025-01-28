@@ -38,4 +38,4 @@
 **반대론자는 항상 반대하는 사람이 아니라 다른 종류의 순응주의자다.**\
 **반대주의자(contrarian)는 항상 반대하는 사람이 아닙니다—그것은 또 다른 종류의 순응주의자일 뿐입니다. 진정한 반대주의자는 독립적으로 근본부터 사고하고, 순응하라는 압력에 저항합니다.**
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
