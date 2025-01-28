@@ -25,6 +25,7 @@
   * [11장: 엔드포인트 활용](study/spring-start-here/11.md)
   * [12장: Data Source](study/spring-start-here/12-data-source.md)
   * [13장: Transaction 처리](study/spring-start-here/13-transaction.md)
+  * [14장: Spring Data](study/spring-start-here/14-spring-data.md)
 
 ## Reference
 
