@@ -8,7 +8,7 @@
 
 implementation 'org.springframework.boot:spring-boot-starter-validation' dependency를 추가해주면 유효성 검사를 할 수 있게된다. 객체에 @NotNull과 같은 제한을 가해주고 파라미터로 받기전 @Valid를 해준다. 형식이 맞지 않는다면 MethodArgumentNotValidException에러를 발생시키는데 @ExceptionHandler로 에러 처리를 해주면 올바르게 예외처리가 가능하다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

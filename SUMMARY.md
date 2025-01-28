@@ -45,3 +45,6 @@
   * [우선순위와 집중](intuition/almanack-of-naval-ravikant/undefined-4.md)
   * [인내심을 가져라](intuition/almanack-of-naval-ravikant/undefined-5.md)
   * [명확하게 생각하라](intuition/almanack-of-naval-ravikant/undefined-6.md)
+  * [현실을 보기 위해서 자아를 제거하라](intuition/almanack-of-naval-ravikant/undefined-7.md)
+  * [의사결정](intuition/almanack-of-naval-ravikant/undefined-8.md)
+  * [Page 3](intuition/almanack-of-naval-ravikant/page-3.md)
