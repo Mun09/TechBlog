@@ -37,7 +37,7 @@ mvc 흐름에서는 컨트롤러가 데이터를 view resolver에게 뷰이름�
 **request parameter를 이용해서 데이터 보내기** \
 @RequestParam을 사용한다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>이렇게 하면</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>이렇게 하면</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p> 이렇게 사용</p></figcaption></figure>
 
@@ -53,7 +53,7 @@ mvc 흐름에서는 컨트롤러가 데이터를 view resolver에게 뷰이름�
 보통 post요청으로 Body request가 들어오고 @RequestBody 로 값을 가져올 수 있다. \
 아래 예시처럼 PaymentDetails같은 DTO를 사용해도 스프링이 자동으로 객체를 정의해준다.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
