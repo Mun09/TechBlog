@@ -26,6 +26,7 @@
   * [12장: Data Source](study/spring-start-here/12-data-source.md)
   * [13장: Transaction 처리](study/spring-start-here/13-transaction.md)
   * [14장: Spring Data](study/spring-start-here/14-spring-data.md)
+  * [15장: Testing](study/spring-start-here/15-testing.md)
 
 ## Reference
 
@@ -52,3 +53,4 @@
   * [Part2: Happiness](intuition/almanack-of-naval-ravikant/part2-happiness/README.md)
     * [행복은 배우는 것이다](intuition/almanack-of-naval-ravikant/part2-happiness/undefined.md)
     * [행복은 선택이다](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-1.md)
+    * [Page 2](intuition/almanack-of-naval-ravikant/part2-happiness/page-2.md)
