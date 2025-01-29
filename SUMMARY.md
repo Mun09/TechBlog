@@ -49,5 +49,6 @@
     * [인내심을 가져라](intuition/almanack-of-naval-ravikant/part-1-wealth/undefined-6.md)
     * [명확하게 생각하라](intuition/almanack-of-naval-ravikant/part-1-wealth/undefined-7.md)
     * [의사결정](intuition/almanack-of-naval-ravikant/part-1-wealth/undefined-8.md)
-  * [Part 2: Happiness](intuition/almanack-of-naval-ravikant/part-2-happiness/README.md)
-    * [행복은 배우는 것이다.](intuition/almanack-of-naval-ravikant/part-2-happiness/untitled.md)
+  * [Part2: Happiness](intuition/almanack-of-naval-ravikant/part2-happiness/README.md)
+    * [행복은 배우는 것이다.](intuition/almanack-of-naval-ravikant/part2-happiness/untitled.md)
+    * [행복은 배우는 것이다.](intuition/almanack-of-naval-ravikant/part2-happiness/.-1.md)
