@@ -50,4 +50,4 @@
     * [명확하게 생각하라](intuition/almanack-of-naval-ravikant/part-1-wealth/undefined-7.md)
     * [의사결정](intuition/almanack-of-naval-ravikant/part-1-wealth/undefined-8.md)
   * [Part 2: Happiness](intuition/almanack-of-naval-ravikant/part-2-happiness/README.md)
-    * [Page 2](intuition/almanack-of-naval-ravikant/part-2-happiness/page-2.md)
+    * [행복은 배우는 것이다.](intuition/almanack-of-naval-ravikant/part-2-happiness/untitled.md)
