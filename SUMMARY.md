@@ -54,3 +54,4 @@
     * [행복은 배우는 것이다](intuition/almanack-of-naval-ravikant/part2-happiness/undefined.md)
     * [행복은 선택이다](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-1.md)
     * [받아들이면서 행복 찾기](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-2.md)
+    * [스스로 구하라](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-3.md)
