@@ -55,3 +55,5 @@
     * [행복은 선택이다](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-1.md)
     * [받아들이면서 행복 찾기](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-2.md)
     * [스스로 구하라](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-3.md)
+    * [남들과 다르게](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-4.md)
+    * [삶의 의미란 무엇일까?](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-5.md)
