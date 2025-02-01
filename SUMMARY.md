@@ -57,3 +57,5 @@
     * [스스로 구하라](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-3.md)
     * [남들과 다르게](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-4.md)
     * [삶의 의미란 무엇일까?](intuition/almanack-of-naval-ravikant/part2-happiness/undefined-5.md)
+* [설득의 심리학](intuition/undefined/README.md)
+  * [상호 호혜 원리](intuition/undefined/undefined.md)
