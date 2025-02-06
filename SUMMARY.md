@@ -61,3 +61,4 @@
   * [상호 호혜 원리](intuition/undefined/undefined.md)
   * [사회적 증거](intuition/undefined/undefined-1.md)
   * [호감](intuition/undefined/undefined-2.md)
+  * [권위](intuition/undefined/undefined-3.md)
