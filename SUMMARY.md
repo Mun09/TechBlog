@@ -62,3 +62,5 @@
   * [사회적 증거](intuition/undefined/undefined-1.md)
   * [호감](intuition/undefined/undefined-2.md)
   * [권위](intuition/undefined/undefined-3.md)
+  * [희소성](intuition/undefined/undefined-4.md)
+  * [에필로그](intuition/undefined/undefined-5.md)
