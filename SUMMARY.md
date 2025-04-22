@@ -10,6 +10,10 @@
 * [Java](debugging/java/README.md)
   * [primitive type vs wrapper class](debugging/java/primitive-type-vs-wrapper-class.md)
 
+## Paper Review
+
+* [powder](paper-review/powder.md)
+
 ## Study
 
 * [Spring start here](study/spring-start-here/README.md)
@@ -64,3 +68,8 @@
   * [권위](intuition/undefined/undefined-3.md)
   * [희소성](intuition/undefined/undefined-4.md)
   * [에필로그](intuition/undefined/undefined-5.md)
+
+## Development
+
+* [Noty](development/noty/README.md)
+  * [폰트사이즈 초기화 에러](development/noty/undefined.md)
