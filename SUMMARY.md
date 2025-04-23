@@ -12,7 +12,7 @@
 
 ## Paper Review
 
-* [Can I Hear Your Face? Pervasive Attack on Voice Authentication Systems with a Single Face Image](paper-review/can-i-hear-your-face-pervasive-attack-on-voice-authentication-systems-with-a-single-face-image.md)
+* [Can I Hear Your Face? Pervasive Attack on Voice Authentication Systems with a Single Face Image](paper-review/powder.md)
 
 ## Study
 

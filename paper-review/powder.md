@@ -6,12 +6,6 @@ description: >-
 
 # Can I Hear Your Face? Pervasive Attack on Voice Authentication Systems with a Single Face Image
 
-당신의 요약은 논문의 핵심 아이디어와 구조를 잘 반영했지만, 몇 가지 기술적 오류와 부족한 세부 사항이 있습니다. 아래에서 당신의 요약을 기반으로 틀린 부분을 수정하고, 보완할 부분을 추가하여 더 정확하고 완전한 요약을 제공하겠습니다. 특히, **Face-independent Voice Feature Generator**와 **Attack Phase**의 오류를 수정하고, "왜 모델이 작동하는가?"에 대한 답변을 보강하며, 실험 결과와 윤리적 고려를 포함해 논문의 전체적인 맥락을 반영하겠습니다.
-
-***
-
-#### **수정된 요약**
-
 **논문 요약**:\
 Foice는 단일 얼굴 이미지만을 사용해 피해자의 음성 샘플 없이도 음성을 합성하여 WeChat, Microsoft Azure, Siri 등 음성 인증 시스템을 속이는 새로운 딥페이크 공격 기법이다. 얼굴과 음성의 생물학적 상관관계를 활용하며, 소셜 미디어에서 쉽게 얻을 수 있는 얼굴 이미지를 이용해 공격의 확장성과 위협성을 높인다. Foice는 Train Phase에서 신경망을 학습하고, Attack Phase에서 합성 음성을 생성해 인증 시스템을 우회한다.
 
